@@ -1,0 +1,4 @@
+node_modules/
+.env
+*.log
+generate_pdf.py
