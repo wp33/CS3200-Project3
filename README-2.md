@@ -4,7 +4,7 @@ A Node + Redis project extending the SafeRoute campus safety navigation system w
 
 ## 🎥 Video Walkthrough
 
-> *[Insert video link here]*
+> https://youtu.be/zRZg8todaIU
 
 ## 🧩 Problem Description
 
@@ -149,8 +149,4 @@ saferoute-redis/
 
 ## 📝 AI Disclosure
 
-Claude (Anthropic) was used as an assistance tool during this project for help with understanding Redis data structures, debugging, and generating the requirements PDF. The Redis demo script was written and understood by the project author. All code was reviewed, tested, and can be fully explained by the author.
-
-## License
-
-MIT
+Claude (Anthropic) was used as an assistance tool during this project for help with understanding Redis data structures, debugging, and generating the requirements PDF. The Redis demo script was written and understood by the project author. All code was reviewed, tested, and can be fully explained by me. This README was also assisted with AI.
